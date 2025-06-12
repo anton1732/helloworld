@@ -1,0 +1,15 @@
+what year did WW2 end?;1945
+what year did the Korean war start?;1950
+what year did the vietnam war end?;1975
+what year did the great depression start?;1929
+what year did ww1 end?;1918
+what year did the civil war start?;1861
+what year did the revolutionary war end?;1783
+what year did the mexican revolution start?;1910
+what year did the spanish civil war end?;1939
+what year did the slave trade end?;1808
+what year did the afghanistan war start?;2001
+what year did the iraq war end?;2011
+what year did the gulf war start?;1990
+what year did covid end?;2023
+what year did slavery start in the united states?;1619
