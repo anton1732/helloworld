@@ -4,6 +4,7 @@ Goals:
 conditional statements
 user input - you may need to do int(input("prompt goes here")) if you're expecting numbers
 one loop (for loop, while loop)
+
 history
 pretend we're comparing birth years
 take birth years from two people
