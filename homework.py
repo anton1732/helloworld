@@ -1,3 +1,4 @@
+#entering name, age and food preference
 name = input("Enter your name: ")
 
 if name == "":
