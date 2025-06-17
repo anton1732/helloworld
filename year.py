@@ -1,3 +1,4 @@
+#guessing who is older
 print("Person A will tell us their birth year first")
 
 print("Person B will tell us their birth year second")
