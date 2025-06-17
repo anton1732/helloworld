@@ -1,3 +1,4 @@
+#opening, reading and printing a file
 """
 file handeling is where you interact with the file on the computer 
 by defualt the read methed returnes the whole text but u can aslo spicify how many charecters u want to return 
