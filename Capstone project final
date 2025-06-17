@@ -5,4 +5,6 @@ history; guesses the year from a point in history; in this project we learned ho
 historyAnswers; answers to the history code; this project was a list of the correct answers to the questions in the history project
 homework; entering name, age and food preference; in this project we learned how to display a response or prompt again if no response was entered
 txt_file; practice hello world; we just practiced how to type different lines saying hello world each time
-year; 
+year; guessing who is older; in this project we had to use 'int' otherwise it would not work
+
+I think I need to continue practicing all of the topics to get really good at python.
